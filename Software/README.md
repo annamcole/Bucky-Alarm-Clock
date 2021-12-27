@@ -1,1 +1,0 @@
-# Bucky Timmer Software
