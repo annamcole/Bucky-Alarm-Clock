@@ -1,2 +1,2 @@
 # Bucky-Alarm-Clock
-Altium PCB design with C code 
+Software and PCB design to implement a kitchen timer using an MSP432P401R microcontroller.
